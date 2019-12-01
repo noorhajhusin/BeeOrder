@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeOrder.Service", "WCF_Service\BeeOrder.Service.csproj", "{658E468A-0B7D-448C-8E8D-FBFFA649972E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeOrder.Models", "BeeOrder.Models\BeeOrder.Models.csproj", "{929DDCED-6209-4828-9D27-E859AFFCB694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeOrder.App", "BeeOrder.App\BeeOrder.App.csproj", "{907D32E7-DC4A-4F0A-BC2A-077BD195721A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658E468A-0B7D-448C-8E8D-FBFFA649972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658E468A-0B7D-448C-8E8D-FBFFA649972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658E468A-0B7D-448C-8E8D-FBFFA649972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658E468A-0B7D-448C-8E8D-FBFFA649972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929DDCED-6209-4828-9D27-E859AFFCB694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929DDCED-6209-4828-9D27-E859AFFCB694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929DDCED-6209-4828-9D27-E859AFFCB694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929DDCED-6209-4828-9D27-E859AFFCB694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907D32E7-DC4A-4F0A-BC2A-077BD195721A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907D32E7-DC4A-4F0A-BC2A-077BD195721A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907D32E7-DC4A-4F0A-BC2A-077BD195721A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907D32E7-DC4A-4F0A-BC2A-077BD195721A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
