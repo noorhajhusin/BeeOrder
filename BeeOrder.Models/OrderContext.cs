@@ -8,7 +8,6 @@ namespace BeeOrder.Models
 {
     public class OrderContext : DbContext
     {
-        //public OrderContext() : base(@"Data Source=96.44.149.198\MSSQLSERVER2012;Initial Catalog=BeeOrder;Persist Security Info=True;User ID=BeeOrder;Password=zFPFU%22")
         public OrderContext() : base(@"Data Source=.;Initial Catalog=BeeOrder;Persist Security Info=True;User ID=aa;Password=111")
         {
         }
